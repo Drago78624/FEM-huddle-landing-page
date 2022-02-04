@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
-- Live Site URL: [live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://github.com/Drago78624/FEM-huddle-landing-page)
+- Live Site URL: [live site URL here](https://compassionate-hypatia-0abd83.netlify.app/)
 
 ## My process
 
